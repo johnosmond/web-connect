@@ -26,8 +26,8 @@ It does, however, require the use of security tokens along with public and priva
 
 I will be working on these methods and posting videos about my progress on social media.
 
-* [YouTube](https://www.youtube.com/@prodbdevelopers)
-* [TikTok](https://www.tiktok.com/@prodbdevelopers)
-* [LinkedIn](https://www.linkedin.com/company/prodbdevelopers)
-* [Facebook](https://www.facebook.com/prodbdevelopers)
-* [GitHum](https://github.com/johnosmond)
+* <a href="https://www.youtube.com/@prodbdevelopers" target="_blank">YouTube</a>
+* <a href="https://www.tiktok.com/@prodbdevelopers" target="_blank">TikTok</a>
+* <a href="(https://www.linkedin.com/company/prodbdevelopers" target="_blank">LinkedIn</a>
+* <a href="(https://www.facebook.com/prodbdevelopers" target="_blank">Facebook</a>
+* <a href="https://github.com/johnosmond" target="_blank">GitHub</a>
