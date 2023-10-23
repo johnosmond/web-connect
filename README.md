@@ -30,4 +30,4 @@ I will be working on these methods and posting videos about my progress on socia
 * [TikTok](https://www.tiktok.com/@prodbdevelopers)
 * [LinkedIn](https://www.linkedin.com/company/prodbdevelopers)
 * [Facebook](https://www.facebook.com/prodbdevelopers)
-* [GitHum](https://github.com/johnosmond)
+* [GitHub](https://github.com/johnosmond)
