@@ -26,7 +26,7 @@ It does, however, require the use of security tokens along with public and priva
 
 I will be working on these methods and posting videos about my progress on social media.
 
-* [YouTube](https://www.youtube.com/@prodbdevelopers){:target="_blank"}
+* [YouTube](https://www.youtube.com/@prodbdevelopers{:target="_blank"})
 * [TikTok](https://www.tiktok.com/@prodbdevelopers){:target="_blank"}
 * [LinkedIn](https://www.linkedin.com/company/prodbdevelopers){:target="_blank"}
 * [Facebook](https://www.facebook.com/prodbdevelopers){:target="_blank"}
