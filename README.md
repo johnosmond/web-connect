@@ -1,4 +1,4 @@
-# Web Connection
+# Web Connect
 This is a sample database with only one entity - Customers.
 The purpose is to demonstrate three ways to connect to a web-based database from Microsoft Access.
 
