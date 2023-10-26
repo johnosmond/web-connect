@@ -17,7 +17,10 @@ class CustomerFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'customer_name' => $this->faker->company,
+            'customer_phone' => $this->faker->phoneNumber,
+            'address' => $this->faker->address,
+            'website' => $this->faker->url,
         ];
     }
 }
